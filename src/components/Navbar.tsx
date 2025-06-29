@@ -2,7 +2,7 @@ import NavLogo from '../assets/logo.png'
 
 const Navbar: React.FC = () => {
     return(
-    <nav className="flex flex-wrap items-center justify-between shadow px-4 py-2">
+    <nav className="fixed top-0 left-0 w-full flex flex-wrap items-center justify-between shadow px-4 py-2">
             <div className="flex items-center">
             <img
                 src={NavLogo}
