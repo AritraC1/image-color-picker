@@ -34,7 +34,7 @@ The output includes both the RGB values and the population (i.e. frequency) of e
 
 ## Getting Started
 ```bash
-git clone 
+git clone https://github.com/AritraC1/image-color-picker.git
 cd image-color-picker
 npm install
 npm run dev
